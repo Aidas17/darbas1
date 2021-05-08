@@ -1,0 +1,23 @@
+body 
+{
+    background-color: rgb(236, 109, 109);
+    text-align: right;
+    font-family: 'Roboto', sans-serif;;
+}
+
+p
+{
+    font-weight: 900;
+}
+
+h1, h2
+{
+    font-weight: 900;
+}
+
+a
+{
+    color: rgb(255, 0, 0);
+    text-decoration: 0;
+    border: solid rgb(0, 255, 21);
+}
